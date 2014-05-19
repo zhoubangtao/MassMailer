@@ -51,3 +51,13 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+# IDE
+*.iml
+*.ipr
+*.iws
+.idea
+.svn
+.classpath
+.project
+.settings
