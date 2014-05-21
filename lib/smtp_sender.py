@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 mailto_list=["zhoubangtao@163.com"]
 mail_host="smtp.163.com"  #设置服务器
 mail_user="zhoubangtao"    #用户名
-mail_pass="163@303938"   #口令
+mail_pass=""   #口令
 mail_postfix="163.com"  #发件箱的后缀
 
 def send_mail(to_list,sub,content):  #to_list：收件人；sub：主题；content：邮件内容
