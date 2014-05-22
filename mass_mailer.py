@@ -7,7 +7,7 @@ import wx
 import wx.lib.buttons
 import cPickle
 import os
-
+import config.settings
 
 class MassMailer(wx.Window):
   def __init__(self, parent, id):
