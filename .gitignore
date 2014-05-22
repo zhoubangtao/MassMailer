@@ -59,3 +59,6 @@ docs/_build/
 .classpath
 .project
 .settings
+
+# sqlite file
+mass_mailer.sqlite
